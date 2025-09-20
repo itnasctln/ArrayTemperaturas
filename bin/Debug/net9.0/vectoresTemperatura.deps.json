@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "vectoresTemperatura/1.0.0": {
+        "runtime": {
+          "vectoresTemperatura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vectoresTemperatura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
